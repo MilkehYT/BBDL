@@ -4,21 +4,21 @@
     "author": "xswish",
     "creators": ["xswish"],
     "verifier": "xswish",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://medal.tv/games/roblox/clips/jTahJS5C3QeBDvrA6?invite=cr-MSx2WGcsMzY0NTQ3NDI4",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
         {
             "user": "xswish",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "https://medal.tv/games/roblox/clips/jTahJS5C3QeBDvrA6?invite=cr-MSx2WGcsMzY0NTQ3NDI4",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "user": "",
+            "link": "",
+            "percent":,
+            "hz": 
         }
     ]
 }
