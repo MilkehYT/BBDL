@@ -1,12 +1,18 @@
 {
-    "id": 460439,
+    "id": 57436521,
     "name": "uh i farded",
     "author": "xswish",
     "creators": ["xswish"],
     "verifier": "xswish",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "verification": "https://medal.tv/games/roblox/clips/jTaqjfb4sSpsmCBOJ?invite=cr-MSxJMmIsMzY0NTQ3NDI4",
+    "percentToQualify": 30,
+    "password": "Not Copyable",
     "records": [
+        {
+            "user": "xswish",
+            "link": "https://medal.tv/games/roblox/clips/jTaqjfb4sSpsmCBOJ?invite=cr-MSxJMmIsMzY0NTQ3NDI4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
